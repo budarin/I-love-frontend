@@ -2,7 +2,7 @@ PWA for SSR application in 5 lines on Workbox 6.
 
 In the article I want to touch on the following questions:
 
-- what is PWA why
+- what is PWA
 - does our application need a service worker
 - why did we decide to rewrite the service worker to Workbox 6
 - cache integrity issue and some features of Workbox 6 when updating versions
